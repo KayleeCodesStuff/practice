@@ -69,3 +69,5 @@ if sign in ["Aries", "Aquarius"]:
     print("You are an " + sign)
 else:
     print("You are a " + sign)
+
+
